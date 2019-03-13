@@ -1,0 +1,8 @@
+Tic Tac_v0.2
+Launch Date		5 march 2019
+Author Name		Kshitij yadav
+Application Name	Tic Tac
+Version			0.2
+Cooperation		YellowEnergy
+this folder have a jar file, a shortcut, and a Folder with the Application file
+You can use this application by clicking on the jar file or click on the shortcut.
